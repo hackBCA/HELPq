@@ -17,7 +17,6 @@ chart:chart
 fourseven:scss
 semantic:ui
 flemay:less-autoprefixer
-standard-minifiers
 meteor-base
 mobile-experience
 mongo
@@ -31,3 +30,5 @@ random
 ejson
 spacebars
 check
+standard-minifier-css
+standard-minifier-js
